@@ -1,6 +1,6 @@
 # CSS3 Gallery
 
-[![license](https://img.shields.io/github/license/faisalAkhtar/css-gallery)](LICENSE)
+[![license](https://img.shields.io/github/license/faisalakhtar/css-gallery)](LICENSE)
 
 ![Screenshot](SS.png)
 
